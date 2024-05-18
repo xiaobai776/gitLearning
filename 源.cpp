@@ -46,7 +46,7 @@ int main(int argc, char* argv[]) {
         printf("µ¥´ÊÊý£º%d\n", wordCount);
     }
     else {
-        printf("Error: Invalid option\n");
+        printf("´íÎó: Invalid option\n");
         return 1;
     }
 
